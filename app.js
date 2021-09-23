@@ -1,7 +1,7 @@
 const timeleft = document.getElementById("time-left");
 
-//const birthday = new Date("05/13/2022");
-const birthday = new Date("04/06/2022");
+const birthday = new Date("05/13/2022");
+
 const second = 1000;
 const minute = second * 60;
 const hour = minute * 60;
