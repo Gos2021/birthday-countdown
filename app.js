@@ -1,6 +1,6 @@
 const timeleft = document.getElementById("time-left");
 
-const birthday = new Date("05/13/2022");
+const birthday = new Date("05/13/2023");
 
 const second = 1000;
 const minute = second * 60;
